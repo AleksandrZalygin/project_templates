@@ -1,5 +1,5 @@
 from settings import settings
-from settings_manager import  settings_manager
+from settings_manager import settings_manager
 import unittest
 
 
