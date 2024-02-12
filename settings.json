@@ -1,3 +1,8 @@
 {
-    "first_name": "Volovikov Alexander"
+    "inn": "012345678900",
+    "account": "01234567890",
+    "correspondent_account": "01234567890",
+    "bic": "123456789",
+    "name": "Romashka",
+    "type_of_property": "12345"
 }
